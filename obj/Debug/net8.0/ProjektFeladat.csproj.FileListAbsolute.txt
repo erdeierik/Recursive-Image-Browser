@@ -1,0 +1,15 @@
+D:\egyetemi cuccok\prog2\ProjektFeladat\bin\Debug\net8.0\ProjektFeladat.exe
+D:\egyetemi cuccok\prog2\ProjektFeladat\bin\Debug\net8.0\ProjektFeladat.deps.json
+D:\egyetemi cuccok\prog2\ProjektFeladat\bin\Debug\net8.0\ProjektFeladat.runtimeconfig.json
+D:\egyetemi cuccok\prog2\ProjektFeladat\bin\Debug\net8.0\ProjektFeladat.dll
+D:\egyetemi cuccok\prog2\ProjektFeladat\bin\Debug\net8.0\ProjektFeladat.pdb
+D:\egyetemi cuccok\prog2\ProjektFeladat\obj\Debug\net8.0\ProjektFeladat.GeneratedMSBuildEditorConfig.editorconfig
+D:\egyetemi cuccok\prog2\ProjektFeladat\obj\Debug\net8.0\ProjektFeladat.AssemblyInfoInputs.cache
+D:\egyetemi cuccok\prog2\ProjektFeladat\obj\Debug\net8.0\ProjektFeladat.AssemblyInfo.cs
+D:\egyetemi cuccok\prog2\ProjektFeladat\obj\Debug\net8.0\ProjektFeladat.csproj.CoreCompileInputs.cache
+D:\egyetemi cuccok\prog2\ProjektFeladat\obj\Debug\net8.0\ProjektFeladat.dll
+D:\egyetemi cuccok\prog2\ProjektFeladat\obj\Debug\net8.0\refint\ProjektFeladat.dll
+D:\egyetemi cuccok\prog2\ProjektFeladat\obj\Debug\net8.0\ProjektFeladat.pdb
+D:\egyetemi cuccok\prog2\ProjektFeladat\obj\Debug\net8.0\ProjektFeladat.genruntimeconfig.cache
+D:\egyetemi cuccok\prog2\ProjektFeladat\obj\Debug\net8.0\ref\ProjektFeladat.dll
+D:\egyetemi cuccok\prog2\ProjektFeladat\bin\Debug\net8.0\styles.css
